@@ -5,6 +5,9 @@ The following example shows how to use Temporal Framework to implement simple wo
 # Prerequisites
 
 You need to install brew formula: https://formulae.brew.sh/formula/temporal
+You need to start local Temporal Server: 
+
+`temporal server start-dev`
 
 # Project scope
 
